@@ -5,7 +5,8 @@ Being developed in collaboration with:
 - Naisheel Shah: @github/nshah1503
 
 ## Instructions for installation
-In root directory, write: ```npm install```
+In root directory, write: ```yarn install```
+In netflix_anime directory, write: ```yarn start```
 
 
 ## TODO
