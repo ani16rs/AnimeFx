@@ -5,7 +5,9 @@ Being developed in collaboration with:
 - Naisheel Shah: @github/nshah1503
 
 ## Instructions for installation
+Clone the repo.
 In root directory, write: ```yarn install```
+<br></br>
 In netflix_anime directory, write: ```yarn start```
 
 
