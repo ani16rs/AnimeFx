@@ -1,8 +1,12 @@
 # AnimeFx
-Website for streaming Anime
+Website for streaming Anime.
+Being developed in collaboration with:
+- Siddharth Bharadwaj: @github/pompeiifreckles
+- Naisheel Shah: @github/nshah1503
 
 ## Instructions for installation
 In root directory, write: ```npm install```
+
 
 ## TODO
 
@@ -12,8 +16,8 @@ In root directory, write: ```npm install```
 - [ ] Home
 - [ ] Search
 - [ ] Trending
-- [ ] Firebase: Firestore
-- [ ] Firebase: Authentication
+- [x] Firebase: Firestore
+- [x] Firebase: Authentication
 - [ ] AWS: S3, CloudFront
 - [ ] Jenkins: Automation
 - [ ] Transcoding: HLS
